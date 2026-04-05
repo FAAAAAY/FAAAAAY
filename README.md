@@ -1,7 +1,6 @@
 ## Hi, I'm Max 👋!
 ### I'm a student and progrmming a enjoyer
 ### My interests are backend development and data analysis
-###
 ## My tech stack:
 
 ### Languages, Frameworks, Platforms and Libraries:
