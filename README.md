@@ -1,5 +1,5 @@
 ## Hi, I'm Max 👋!
-### I'm a student and progrmming a enjoyer
+#### I'm a student and progrmming a enjoyer
 #### Languages, Frameworks, Platforms and Libraries:
 
 [![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=yellow)](#)
