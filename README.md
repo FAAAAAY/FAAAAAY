@@ -1,16 +1,15 @@
 <h2 align="center">Hi, I'm Max 👋!</a> </h2>
 
-<!--
-**FAAAAAY/FAAAAAY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My tech stack:
 
-Here are some ideas to get you started:
+### Languages, Frameworks, Platforms and Libraries:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=yellow)](#)
+[![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=blue)](#)
+[![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=E34F26)](#)
+
+### Learn coding:
+
+[![Leetcode](https://img.shields.io/badge/Leetcode-090909?style=for-the-badge&logo=Leetcode&logoColor=ffa116)](https://leetcode.com/u/MarinaVetrova/)
+[![Stepik](https://img.shields.io/badge/Stepik-090909?style=for-the-badge&logo=Stepik&logoColor=ffa116)](https://stepik.org/users/33356423/profile)
+[![Codewars](https://img.shields.io/badge/Codewars-090909?style=for-the-badge&logo=Codewars&logoColor=b1361e)](https://www.codewars.com/r/gWh5VQ)
