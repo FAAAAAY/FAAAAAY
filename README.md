@@ -4,7 +4,7 @@
 
 ###
 
-## My tech stack:
+### My tech stack:
 
 ### Languages, Frameworks, Platforms and Libraries:
 
