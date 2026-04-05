@@ -8,6 +8,6 @@
 
 #### Learn coding:
 
-[![Leetcode](https://img.shields.io/badge/Leetcode-090909?style=for-the-badge&logo=Leetcode&logoColor=ffa116)](https://leetcode.com/u/MarinaVetrova/)
-[![Stepik](https://img.shields.io/badge/Stepik-090909?style=for-the-badge&logo=Stepik&logoColor=ffa116)](https://stepik.org/users/33356423/profile)
-[![Codewars](https://img.shields.io/badge/Codewars-090909?style=for-the-badge&logo=Codewars&logoColor=b1361e)](https://www.codewars.com/r/gWh5VQ)
+[![Leetcode](https://img.shields.io/badge/Leetcode-090909?style=for-the-badge&logo=Leetcode&logoColor=ffa116)](https://leetcode.com/u/FAAAY/)
+[![Stepik](https://img.shields.io/badge/Stepik-090909?style=for-the-badge&logo=Stepik&logoColor=ffa116)](https://stepik.org/users/1148630796/profile)
+[![Codewars](https://img.shields.io/badge/Codewars-090909?style=for-the-badge&logo=Codewars&logoColor=b1361e)](https://www.codewars.com/users/faytopix)
